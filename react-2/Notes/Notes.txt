@@ -1,0 +1,10 @@
+* Node Js is a run time enviroment (not a library/framwork)
+runs on chrome V8 engine
+it is written in C++ language
+to develope server-side application in js.
+
+2 React js is a library
+3 Angular is a framework
+4 express is web framework
+
+* React Component
