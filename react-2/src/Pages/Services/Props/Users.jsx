@@ -1,4 +1,4 @@
-export const props = [
+export const users = [
   { id: 1, name: "Lurette", email: "lhill0@ow.ly", gender: "Female" },
   {
     id: 2,
@@ -56,4 +56,4 @@ export const props = [
   },
 ];
 
-export default props;
+export default users;
