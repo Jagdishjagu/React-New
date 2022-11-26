@@ -8,3 +8,13 @@ to develope server-side application in js.
 4 express is web framework
 
 * React Component
+Component main responposibility is return the user interfaces (UI)
+Also function responposibility is return the user interfaces (UI)
+
+*Class is a tenplete to construct object
+It contains properties and method
+We cant write the return statement directly in class, We need method (react.component)has lot of method
+Step 1 import react
+Step 2 Create a class, That should extends React.Component
+Step 3 To written UI, We are over ridding render(){}
+Step 4 Export the component

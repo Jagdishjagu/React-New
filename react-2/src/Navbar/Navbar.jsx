@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-white bg-dark">
+      <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container ">
           <img
             src="https://ekartlogistics.com/assets/images/ekblueLogo.png"
@@ -18,7 +18,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/service" className="nav-link">
+              <Link to="/services" className="nav-link">
                 Services
               </Link>
             </li>
